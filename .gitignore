@@ -124,7 +124,7 @@ celerybeat.pid
 .venv
 env/
 venv/
-cancer/*
+cancer/
 ENV/
 env.bak/
 venv.bak/
