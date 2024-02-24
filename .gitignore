@@ -124,7 +124,6 @@ celerybeat.pid
 .venv
 env/
 venv/
-cancer/
 ENV/
 env.bak/
 venv.bak/
@@ -161,3 +160,4 @@ cython_debug/
 #.idea/
 
 artifacts/*
+cancer/*
