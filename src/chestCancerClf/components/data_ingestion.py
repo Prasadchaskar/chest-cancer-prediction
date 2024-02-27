@@ -1,7 +1,7 @@
 import os
 import zipfile
 import gdown
-from src.chestCancerClf import logger
+from chestCancerClf import logger
 from chestCancerClf.utils.common import  get_size
 from chestCancerClf.entity.config_entity import (DataIngestionConfig)
 

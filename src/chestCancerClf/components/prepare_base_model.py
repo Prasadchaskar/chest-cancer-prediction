@@ -1,6 +1,6 @@
 import os
 import zipfile
-from src.chestCancerClf import logger
+from chestCancerClf import logger
 from chestCancerClf.utils.common import  get_size
 from chestCancerClf.entity.config_entity import (PrepareBaseModelConfig)
 import tensorflow as tf
